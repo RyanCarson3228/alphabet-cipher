@@ -1,5 +1,8 @@
 # alphabet-cipher
 
+This project was taken from r/daily programmer and can be found at the following link:
+https://reddit.com/r/dailyprogrammer/comments/879u8b/20180326_challenge_355_easy_alphabet_cipher/
+
 "The Alphabet Cipher", published by Lewis Carroll in 1868, describes a Vigenère cipher (thanks /u/Yadkee for the clarification) for passing secret messages. The cipher involves alphabet substitution using a shared keyword. Using the alphabet cipher to tranmit messages follows this procedure:
 
 You must make a substitution chart like this, where each row of the alphabet is rotated by one as each letter goes down the chart. All test cases will utilize this same substitution chart.
