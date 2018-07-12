@@ -1,0 +1,19 @@
+{
+  "name": "alphabet-cipher",
+  "version": "1.0.0",
+  "description": "soling an alphabet cipher using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCarson3228/alphabet-cipher.git"
+  },
+  "author": "Ryan Carson <rcarson95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanCarson3228/alphabet-cipher/issues"
+  },
+  "homepage": "https://github.com/RyanCarson3228/alphabet-cipher#readme"
+}
